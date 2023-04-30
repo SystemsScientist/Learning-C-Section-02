@@ -1,0 +1,43 @@
+
+Section 02: Sending Text to Output
+--------------------------------------------------------------------------------------
+
+The Old I/O
+
+	- I is input
+
+	- O is output
+
+	- I and O form I/O
+
+
+A Typical C Program
+
+	- Input --> Something --> Output
+
+
+C Library Output Functions
+
+	- printf(), putchar(), puts()
+
+	- Sends one or more characters to output
+
+	- Requires the stdio.h header file
+
+	- Part of the standard C library
+
+
+Example
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+	puts("Thrilled to meet you!");
+
+	return 0;
+}
+
+
+
