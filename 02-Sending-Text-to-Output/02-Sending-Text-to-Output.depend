@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682851178 source:/home/snarkydata/linkedin-courses/c-courses/Learning-C/02-The-Basics/02-Sending-Text-to-Output/main.c
+	<stdio.h>
+	<stdlib.h>
+
