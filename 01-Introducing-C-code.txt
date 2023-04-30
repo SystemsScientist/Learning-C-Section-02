@@ -1,0 +1,27 @@
+
+Section 02: Introducing C Code
+--------------------------------------------------------------------------------------
+
+Example program produces the simplest C structure
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+	// program produces no output
+
+	return 0;
+}
+
+
+Notes
+
+	- return can take any integer: ..., -3, -2, -1, 0, 1, 2, 3, ...
+	- use different integers for different return statements in a
+	  program, for example, if you use "return 0;" for one return
+	  statement, then use "return 1;" for another return statement
+	  or use "return -1;" for a different return statement
+
+
+
