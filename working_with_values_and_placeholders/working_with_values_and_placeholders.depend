@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659822293 source:/home/snarkydata/linkedin-courses/c-courses/Learning-C/02-The-Basics/working_with_values_and_placeholders/main.c
+	<stdio.h>
+	<stdlib.h>
+

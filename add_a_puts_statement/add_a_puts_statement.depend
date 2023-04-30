@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659562915 source:/home/snarkydata/linkedin-courses/c-courses/Learning-C/02-The-Basics/add_a_puts_statement/main.c
+	<stdio.h>
+	<stdlib.h>
+
