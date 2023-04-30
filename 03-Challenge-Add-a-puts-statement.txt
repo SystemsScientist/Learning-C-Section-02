@@ -1,0 +1,22 @@
+
+Section 03: Challenge - Add a puts() Statement
+--------------------------------------------------------------------------------------
+
+Requirements
+
+	1. Create a C project in Code::Blocks called 03-Add-puts-Statement
+	   or create a .c file called 03_add_puts_statement.c
+
+	2. Add a second puts() function after the first puts() statement
+	   and before the return statement
+
+	3. Write a string of text - whatever you like - to output
+
+	4. Compile, build, and run in Code::Blocks or execute the following
+	   command-line scripts: 
+
+		$ gcc 03_add_puts_statement.c -o main
+		$ ./main
+
+
+
