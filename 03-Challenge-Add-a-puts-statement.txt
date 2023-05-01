@@ -1,5 +1,5 @@
 
-Section 03: Challenge - Add a puts() Statement
+Section 02: Challenge - Add a puts() Statement
 --------------------------------------------------------------------------------------
 
 Requirements
