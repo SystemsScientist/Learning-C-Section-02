@@ -1,5 +1,5 @@
 
-Section 04: Solution - Add a puts() Statement
+Section 02: Solution - Add a puts() Statement
 -----------------------------------------------------------------------------
 
 See 03-Challenge-Add-a-puts-statement.txt file for program
