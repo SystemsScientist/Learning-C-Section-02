@@ -1,0 +1,18 @@
+
+Section 02: Exploring the printf() function
+--------------------------------------------------------------------
+
+Example
+
+#include <stdio.h>
+
+int main(void) {
+
+	printf("This is the way the world end.\n");
+	printf("Not with a bang but a whimper.\n");
+
+	return 0;
+}
+
+
+
