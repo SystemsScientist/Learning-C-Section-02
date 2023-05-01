@@ -3,7 +3,8 @@ Section 04: Solution - Add a puts() Statement
 -----------------------------------------------------------------------------
 
 See 03-Challenge-Add-a-puts-statement.txt file for program
-requirements.
+requirements and 03-Add-puts-Statement project for program
+solution.
 
 
 
