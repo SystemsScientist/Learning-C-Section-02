@@ -1,0 +1,43 @@
+
+Section 02: Adding Comments to the Code
+------------------------------------------------------------------------------------------------------
+
+There are two ways to comment in a C program. The first way
+is to use double forward slashes as the following example
+illustrates:
+
+Example 1
+
+int main(void) {
+	
+	printf("This program single-line comments!"); // outputs a group of characters
+
+	return 0;
+}
+
+Double forward slashes is for single line comments.
+
+
+The second way is to use a forward slash followed by a star
+with some text of your choosing followed by a star and a 
+forward slash as the following example shows:
+
+Example 2
+
+/*
+  Author: Matt Johnson
+  Date: 05/01/2023
+*/
+
+int main(void) {
+
+	printf("This program uses multi-line comments!");
+
+	return 0;
+}
+
+One forward slash followed by two stars and another forward
+slash is for multi-line comments.
+
+
+
