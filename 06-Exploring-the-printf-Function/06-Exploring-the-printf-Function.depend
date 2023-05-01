@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682935185 source:/home/snarkydata/linkedin-courses/c-courses/Learning-C/02-The-Basics/06-Exploring-the-printf-Function/main.c
+	<stdio.h>
+	<stdlib.h>
+
