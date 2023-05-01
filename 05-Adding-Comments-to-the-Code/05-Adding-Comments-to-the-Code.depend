@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682934201 source:/home/snarkydata/linkedin-courses/c-courses/Learning-C/02-The-Basics/05-Adding-Comments-to-the-Code/main.c
+	<stdio.h>
+	<stdlib.h>
+
