@@ -1,0 +1,18 @@
+
+Section 02: Challenge - Use Escape Sequences
+-----------------------------------------------------------------------------------
+
+Requirements
+
+	1. Create a new source code file with a single
+	   printf() statement in the main() function
+
+	2. The statement must generate two lines of output
+	   and include one word enclosed in double quotes
+
+	3. Save the source code as a .c file
+
+	4. Compile, build, and run the program to test
+
+
+
