@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683022274 source:/home/snarkydata/linkedin-courses/c-courses/Learning-C/02-The-Basics/11-Solution-Use-Escape-Sequences/main.c
+	<stdio.h>
+	<stdlib.h>
+
