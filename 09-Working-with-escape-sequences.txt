@@ -1,0 +1,41 @@
+
+Section 02: Exploring the scanf() Function
+--------------------------------------------------------------------------------
+
+Escape Sequences I
+
+	- "Behold!\nI am a string of text."
+
+	- Output
+
+		+ "Behold!
+		  I am a string of text."
+
+
+Escape Sequences II
+
+	1. \n - Newline, start a new line of text
+
+	2. \t - Tab, hop over so many spaces
+
+	3. \' - Escaped single quote
+
+	4. \" - Escaped double quote
+
+	5. Display backslash character
+
+
+Escape Sequences III
+
+	- Within a string
+
+		+ "Behold!\nI am a \"string\" of text."
+
+	- As a single character
+
+		+ '\n'
+
+		+ '\''
+
+
+
