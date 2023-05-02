@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683020657 source:/home/snarkydata/linkedin-courses/c-courses/Learning-C/02-The-Basics/08-Solution-Add-a-New-Line/main.c
+	<stdio.h>
+	<stdlib.h>
+
