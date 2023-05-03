@@ -1,0 +1,91 @@
+
+Section 02: Introducing Variables
+----------------------------------------------------------------
+
+C Language Constants and Variables
+
+	- Constants
+
+		+ Values such as 27 
+
+		+ Strings such as "Hello, World!"
+
+	- Variables
+
+		+ The contents can change
+
+		+ Contents can be a variety of data
+		  types
+
+
+C Language Variables
+
+	- A variable is a data container
+
+	- Must be declared for a specific type of data
+
+	- Must be given a unique name, starting with a letter
+
+		+ Lowercase letters are preferred 
+
+	- Variables are declared before used in the code
+
+
+C Language Data Types I
+
+	int		Integer or whole number values
+
+	float		Floating-point (real) values
+
+	double		Very large floating point values
+
+	char		Single characters
+
+
+C Language Data Types II
+
+	- C Language Keywords
+
+		+ int
+
+		+ float
+
+		+ double
+
+		+ char
+
+
+C Language Data Types III
+
+	Data Types		Qualifiers
+
+	int			long
+	float			short
+	double			signed
+	char			unsigned
+
+
+Declaring a Variable
+
+	- Char ch;
+
+		+ The variable's data type is char, 
+		  single character
+
+		+ The variable name is ch
+
+		+ The statement ends in a semicolon
+
+
+Assigning a Value to a Variable
+
+	ch = 'x';	Use the equal assignment operator
+
+	a = z;		Assign the value of another variable
+
+	y = line / 4;	Assign the result of an expression
+
+	w = width();	Assign the return value of a function
+ 
+
+
