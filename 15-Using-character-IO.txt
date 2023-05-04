@@ -1,0 +1,48 @@
+
+Section 02: Using Character I/O
+-----------------------------------------------------------------------------
+
+Input/Output Functions
+
+	- Reads: Need an input function
+
+	- Generates: Need an output function
+
+	- C language keywords do not deal with I/O
+
+
+Data Types
+
+	- getchar()
+
+	- putchar()
+
+
+The getchar() and putchar Functions
+
+	- Require the stdio.h header file included
+
+	- Work with int (not char) values
+
+	- Are stream-oriented
+
+
+Example
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+	int d;
+
+	printf("Type a letter: ");
+	d = getchar();
+
+	printf("You typed '%c'\n", d);
+
+	return 0;
+}
+
+
+
