@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683192435 source:/home/snarkydata/linkedin-courses/c-courses/Learning-C/02-The-Basics/14-Experimenting-with-Variables/main.c
+	<stdio.h>
+	<stdlib.h>
+
